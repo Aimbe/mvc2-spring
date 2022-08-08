@@ -1,1 +1,3 @@
+//thymeleaf gradle
+
 rootProject.name = 'thymeleaf-basic'
