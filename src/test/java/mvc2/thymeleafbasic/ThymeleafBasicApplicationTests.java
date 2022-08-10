@@ -10,6 +10,8 @@ class ThymeleafBasicApplicationTests {
 
 	@Test
 	void contextLoads() {
+		
+		String txt ='function';
 	}
-
+	
 }
