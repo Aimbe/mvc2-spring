@@ -3,9 +3,8 @@ package mvc2.thymeleafbasic;
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
-
-//test
-@SpringBootTest
+@AnnotationCheck
+@SpringBoot
 class ThymeleafBasicApplicationTests {
 
 	@Test
